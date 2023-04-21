@@ -1,0 +1,15 @@
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\bin\Debug\net6.0\JogodaVelhaAVALIATIVO.exe
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\bin\Debug\net6.0\JogodaVelhaAVALIATIVO.deps.json
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\bin\Debug\net6.0\JogodaVelhaAVALIATIVO.runtimeconfig.json
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\bin\Debug\net6.0\JogodaVelhaAVALIATIVO.dll
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\bin\Debug\net6.0\JogodaVelhaAVALIATIVO.pdb
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\obj\Debug\net6.0\JogodaVelhaAVALIATIVO.csproj.AssemblyReference.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\obj\Debug\net6.0\JogodaVelhaAVALIATIVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\obj\Debug\net6.0\JogodaVelhaAVALIATIVO.AssemblyInfoInputs.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\obj\Debug\net6.0\JogodaVelhaAVALIATIVO.AssemblyInfo.cs
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\obj\Debug\net6.0\JogodaVelhaAVALIATIVO.csproj.CoreCompileInputs.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\obj\Debug\net6.0\JogodaVelhaAVALIATIVO.dll
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\obj\Debug\net6.0\refint\JogodaVelhaAVALIATIVO.dll
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\obj\Debug\net6.0\JogodaVelhaAVALIATIVO.pdb
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\obj\Debug\net6.0\JogodaVelhaAVALIATIVO.genruntimeconfig.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafiosAtos\DesafioJogodaVelha\JogodaVelha\JogodaVelhaAVALIATIVO\JogodaVelhaAVALIATIVO\obj\Debug\net6.0\ref\JogodaVelhaAVALIATIVO.dll
